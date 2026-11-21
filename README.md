@@ -1,0 +1,2 @@
+# gptimage2-asia-product-introduction
+https://gptimage2.asia/ 是一个第三方 AI 出图工作台。打开中文入口 https://gptimage2.asia/zh，就可以在同一个生成器里切换多款模型，直接使用 GPT Image 2.6 的新功能（Flare / Sunburst 双通道、1K–4K 静图、动态 GIF、可编辑 SVG），套餐价格也便宜：一次性体验包只要 ¥9.99。页面里不用填写官方 OpenAI 或字节跳动 API Key。
